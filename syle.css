@@ -1,0 +1,19 @@
+html,
+body,
+#survey {
+    height: 100%;
+    background-color: white;
+    
+}
+
+.survey-top{
+	margin:8%;
+}
+.form{
+	margin:0 auto;
+	
+}
+
+.form-control{
+border-radius:0px !important;
+}
